@@ -7,7 +7,7 @@ public class DemoApplication {
 
 		System.out.println("GIT Feature2");
 
-		System.out.println("Feature 2");
+		System.out.println("Old Feature 2");
 
 	}
 }
